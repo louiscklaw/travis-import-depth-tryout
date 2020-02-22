@@ -1,5 +1,5 @@
 jobs:
   include:
-    - stage: Merge
+    - stage: Testing depth
       script:
         - echo "travis depth 10"

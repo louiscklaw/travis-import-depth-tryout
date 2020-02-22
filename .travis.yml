@@ -9,6 +9,9 @@ version: ~> 1.0
 os: linux
 language: node_js
 
+import:
+  - .travis/.travis_depth_1.yml
+
 jobs:
   include:
     - stage: Merge

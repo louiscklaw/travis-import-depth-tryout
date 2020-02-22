@@ -11,6 +11,15 @@ language: node_js
 
 import:
   - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
+  - .travis/.travis_depth_1.yml
 
 jobs:
   include:

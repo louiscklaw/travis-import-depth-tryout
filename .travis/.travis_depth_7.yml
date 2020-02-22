@@ -1,0 +1,5 @@
+jobs:
+  include:
+    - stage: Merge
+      script:
+        - echo "travis depth 7"

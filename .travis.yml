@@ -34,7 +34,6 @@ import:
   - .travis/.travis_depth_22.yml
   - .travis/.travis_depth_23.yml
   - .travis/.travis_depth_24.yml
-  - .travis/.travis_depth_25.yml
 
 jobs:
   include:

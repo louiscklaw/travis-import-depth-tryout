@@ -20,6 +20,16 @@ import:
   - .travis/.travis_depth_8.yml
   - .travis/.travis_depth_9.yml
   - .travis/.travis_depth_10.yml
+  - .travis/.travis_depth_11.yml
+  - .travis/.travis_depth_12.yml
+  - .travis/.travis_depth_13.yml
+  - .travis/.travis_depth_14.yml
+  - .travis/.travis_depth_15.yml
+  - .travis/.travis_depth_16.yml
+  - .travis/.travis_depth_17.yml
+  - .travis/.travis_depth_18.yml
+  - .travis/.travis_depth_19.yml
+  - .travis/.travis_depth_20.yml
 
 jobs:
   include:

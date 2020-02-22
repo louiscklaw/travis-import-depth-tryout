@@ -1,4 +1,5 @@
-import: .travis_depth_1_1.yml
+import:
+  - .travis_depth_1_1.yml
 
 jobs:
   include:

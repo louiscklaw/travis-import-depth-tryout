@@ -2,4 +2,4 @@ jobs:
   include:
     - stage: Testing depth
       script:
-        - echo "travis depth 1"
+        - echo "travis depth 20"
